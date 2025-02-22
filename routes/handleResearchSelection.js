@@ -1,0 +1,44 @@
+const express = require("express");
+const Veteran = require("../models/VeteranSchema");
+const Selection = require("../models/SelectionSchema");
+
+const app = express.Router();
+
+app.post("/select", async (req, res) => {
+    const { name, email, vet_id, province, city } = req.body;
+    
+    try {
+        // Create a new selection record
+        const selection = new Selection({
+            name,
+            email,
+            location: {
+                province,
+                city,
+            },
+            veteran: vet_id,
+        });
+
+        console.log(selection)
+
+        await selection.save();
+
+        // Update the veteran document to set 'taken' to true
+        const updatedVeteran = await Veteran.findByIdAndUpdate(
+            vet_id,
+            { taken: true },
+            { new: true }
+        );
+
+        if (!updatedVeteran) {
+            return res.status(404).send({ Message: "Veteran not found", Success: false });
+        }
+
+        return res.send({ Message: "Congratulations! Veteran selected.", Success: true });
+    } catch (error) {
+        console.error(error);
+        return res.status(500).send({ Message: "Server error occurred", Success: false });
+    }
+});
+
+module.exports = app;
