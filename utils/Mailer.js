@@ -11,6 +11,8 @@ const transporter = nodemailer.createTransport({
 });
 
 async function sendEmailNotification(userEmail, userName, vet, subject, who) {
+    console.log("made it here")
+    console.log(vet)
     let htmlString = ``;
     try {
       switch (who) {
@@ -83,6 +85,8 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
           `;
           break;
       }
+     
+      console.log("html chosen: ", htmlString)
   
       const info = await transporter.sendMail({
         from: `"WWII Research Guide" <${process.env.USERNAME}>`,
