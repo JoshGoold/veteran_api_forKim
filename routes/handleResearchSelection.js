@@ -1,6 +1,7 @@
 const express = require("express");
 const Veteran = require("../models/VeteranSchema");
 const Selection = require("../models/SelectionSchema");
+const {sendEmailNotification} = require("../utils/Mailer")
 
 const app = express.Router();
 
@@ -33,6 +34,10 @@ app.post("/select", async (req, res) => {
         if (!updatedVeteran) {
             return res.status(404).send({ Message: "Veteran not found", Success: false });
         }
+        const vet = await Veteran.findById(vet_id)
+
+        sendEmailNotification(email, name, `You have selected: ${vet.name}`, "")
+        sendEmailNotification("drkimbergeron@gmail.com", name, `New Research Selection: ${name} is now researching ${vet.name}`)
 
         return res.send({ Message: "Congratulations! Veteran selected.", Success: true });
     } catch (error) {
