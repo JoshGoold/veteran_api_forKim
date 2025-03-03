@@ -36,8 +36,8 @@ app.post("/select", async (req, res) => {
         }
         const vet = await Veteran.findById(vet_id)
 
-        sendEmailNotification(email, name, vet, `You have selected: ${vet.name}`, "student")
-        sendEmailNotification(email, name, vet, `New Research Selection: ${name} is now researching ${vet.name}`, "prof")
+        await sendEmailNotification(email, name, vet, `You have selected: ${vet.name}`, "student")
+        await sendEmailNotification(email, name, vet, `New Research Selection: ${name} is now researching ${vet.name}`, "prof")
 
         return res.send({ Message: "Congratulations! Veteran selected.", Success: true });
     } catch (error) {
