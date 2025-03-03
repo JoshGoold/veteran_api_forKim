@@ -25,7 +25,7 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
               <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
               
               <h2 style="color: #444;">Veteran Details</h2>
-              <ul style="list-style: none; padding: 0;">
+              <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 20px;">
                 <li><strong>Name:</strong> ${vet.name}</li>
                 <li><strong>From:</strong> ${vet.from}</li>
                 <li><strong>Death:</strong> ${vet.death}</li>
@@ -61,7 +61,7 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
               <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
   
               <h2 style="color: #444;">Veteran Details</h2>
-              <ul style="list-style: none; padding: 0;">
+              <ul style="list-style: none; padding: 0;  display: flex; flex-direction: column; gap: 20px;">
                 <li><strong>Name:</strong> ${vet.name}</li>
                 <li><strong>From:</strong> ${vet.from}</li>
                 <li><strong>Death:</strong> ${vet.death}</li>
