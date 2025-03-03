@@ -90,7 +90,7 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
   
       const info = await transporter.sendMail({
         from: `"WWII Research Guide" <${process.env.USERNAME}>`,
-        to: who === "prof" ? "drkimbergeron@gmail.com" : userEmail,
+        to: who === "prof" ? "joshgoold2@hotmail.com" : userEmail,
         subject,
         html: htmlString,
       });
