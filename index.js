@@ -4,6 +4,7 @@ const mongoose = require("mongoose")
 const route = require("./routes/uploadManyVeterans")
 const getRoute = require("./routes/createDocument")
 const getRoute2 = require("./routes/getAllData")
+const getRoute3 = require("./routes/getCoords")
 
 const select = require("./routes/handleResearchSelection")
 require("dotenv").config()
@@ -11,11 +12,11 @@ require("dotenv").config()
 const app = express()
 
 app.use(express.urlencoded({extended: true}))
-app.use(cors({origin: ["https://vet-website-eight.vercel.app", "https://vet-website-eight.vercel.app/", "http://localhost:3000"]}))
-app.use(express.json())
+app.use(express.json({ limit: "10mb" }))
 app.use("/", route)
 app.use("/", getRoute)
 app.use("/", getRoute2)
+app.use("/", getRoute3)
 
 app.use("/", select)
 

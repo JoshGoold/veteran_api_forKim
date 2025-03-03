@@ -1,0 +1,9553 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Herschel-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3566522,
+          51.6353464,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Edmonton-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.491241,
+          53.5462055,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Windsor-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9780695,
+          42.2858536,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Rockhaven-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.872392,
+          52.6710801,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Andrew-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3307526,
+          53.8788769,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hamilton-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8728583,
+          43.2560802,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Charlottetown-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.132935,
+          46.234953,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Newdale-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.204516,
+          50.3510388,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Essex-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7120106,
+          42.2354142,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ninette-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.633333,
+          49.4,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dafoe-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5280817,
+          51.7516118,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hinchliffe-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.6486526,
+          52.0635573,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Toronto-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839347,
+          43.6534817,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Montreal-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Victoria-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.364953,
+          48.4283182,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Arthur-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2194423,
+          48.4348261,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kamloops-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.339415,
+          50.6758269,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.02255,
+          0.9713095,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Renfrew-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2793698,
+          45.7300564,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sarnia-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403533,
+          42.9743821,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vancouver-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113952,
+          49.2608724,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Durham-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.949678,
+          44.0310471,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Prince Rupert-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.32549,
+          54.3126572,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Saskatoon-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.660767,
+          52.131802,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Waterford-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.290768,
+          42.9345071,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pubnico-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7839702,
+          43.7024423,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Woodstock-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7562977,
+          43.1301111,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Rocky Mountain House-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9183995,
+          52.3768803,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Winnipeg-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1384584,
+          49.8955367,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Trenton-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.57539,
+          44.1019126,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Champion-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1514765,
+          50.24272,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ottawa-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6901106,
+          45.4208777,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sudbury-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.991211,
+          46.49272,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cornwall-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7333845,
+          45.0469989,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Morien-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.8717771,
+          46.1344613,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/North Vancouver-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0737925,
+          49.3206294,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lethbridge-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8331033,
+          49.6945782,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brandon-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9608924,
+          49.8511143,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sifton-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1462218,
+          51.3587547,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Peterborough-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3199496,
+          44.3048009,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Clive-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4412968,
+          52.4771595,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Westmount-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.596562,
+          45.4856917,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/La Porte City-Iowa-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.18764464118001,
+          42.31080333743503,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Regina-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6158764,
+          50.4479733,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kapuskasing-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.433333,
+          49.416667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Three Rivers-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.548176710109,
+          46.3592267,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tredegar-England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.290731,
+          51.0386486,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Worcester-Massachusetts-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.813127,
+          42.278704,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Shoal Lake-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5911707,
+          50.4378995,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Niagara Falls-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0639039,
+          43.1065603,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New York-New York-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Flintoft-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3527902,
+          49.4652543,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Timmins-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.330414,
+          48.477473,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Halifax-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5859487,
+          44.648618,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wakaw-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.735836,
+          52.6499347,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Norwood-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13000000893548,
+          49.8827704,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Duffield-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3464942,
+          53.5259625,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Carbon-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.151635,
+          51.4859432,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ruby Lake-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.35633594447683,
+          52.96033845,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Douglas-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9384169,
+          45.5083499,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Blenheim-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9974055,
+          42.3354182,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Didsbury-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.13756821660974,
+          51.6567661,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Grimsby-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.560677,
+          43.1931661,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Markham-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3376825,
+          43.8563707,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Moose Jaw-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.542908,
+          50.401515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bateman-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.748556,
+          50.010122,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bow Island-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3789489,
+          49.8701679,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Innisfail-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9502354,
+          52.0274651,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Guelph-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2493276,
+          43.5460516,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brockville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7016829,
+          44.6039207,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Killaloe Station-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41578859602839,
+          45.5537248,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/North Bay-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4607617,
+          46.3092115,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wetaskiwin-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.36792,
+          52.968492,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Leamington-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5996998,
+          42.0531166,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Baldur-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2440107,
+          49.3855177,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Henshall-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.11851997543278,
+          44.91415768795869,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Unity-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.1548985,
+          52.4428508,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hot Springs-Arkansas-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04401015,
+          34.4996596,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Newark-New Jersey-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17355298841295,
+          40.70160782420194,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stratford-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9818016,
+          43.3700899,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/La Riviere-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6798922,
+          49.2391036,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/South Maitland-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4728377,
+          45.2536589,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Medicine Hat-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.679016,
+          50.04303,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/MacGregor-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7788156,
+          49.9662855,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Esterhazy-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0763357,
+          50.6536237,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bounty-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3625591,
+          51.523182,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Clyde River-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2576799,
+          46.2239354,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cobden-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8790385,
+          45.6276233,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Qu’appelle-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8779412,
+          50.5413694,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chilliwack-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.95255,
+          49.1709788,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lindsay-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7369939,
+          44.3551266,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/London-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.243372,
+          42.9832406,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fort William-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2456153,
+          48.3824086,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Hammond-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.658062,
+          49.2033686,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Marietta-Ohio-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.44740580697122,
+          39.41092987871401,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Truro-Cornwall-England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0518107,
+          50.2633173,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Goderich-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7110949,
+          43.7430924,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Norwood-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9798045,
+          44.3818091,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Arvida-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1821701,
+          48.425897,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Amherst-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2333504,
+          45.8192941,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/West Summerland-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.68345202614981,
+          49.5844746,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tignish-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0332525,
+          46.9504992,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Elmira-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5121147,
+          43.5919677,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Calgary-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.057541,
+          51.0456064,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Deloraine-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4945182,
+          49.1926295,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kelowna-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.495902,
+          49.8879177,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Grande Prairie-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7949873,
+          55.17108,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brantford-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2631733,
+          43.1408157,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cochrane-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1914444,
+          50.630898,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Summerland-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.666667,
+          49.6,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Merritton-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2140005,
+          43.1403845,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Summerberry-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05683046849235,
+          50.487053940111366,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Verchere-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25838985,
+          45.295958,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kettleby-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5734086,
+          44.005493,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Midland-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.885712,
+          44.750147,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Oyama-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3708769,
+          50.1100562,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Torbay-Newfoundland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.726986,
+          47.6576953,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Aurora-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.467545,
+          43.99973,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kemptville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.644567,
+          45.0154164,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lashburn-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.62850905604587,
+          53.136240599999994,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Burnaby-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.972545,
+          49.2433804,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Finchley-England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1805587,
+          51.5973246,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Verdun-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5731774,
+          45.459078,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kenora-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1618188,
+          54.0245941,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hastings-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.68923984292411,
+          53.40674904726785,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Oakville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.666672,
+          43.447436,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Elora-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.429581,
+          43.681148,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New York City-New York-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78715337855904,
+          40.655096367129886,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Willowdale-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41753634058091,
+          43.778870049999995,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Magog-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1480686,
+          45.2658014,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tecumseh-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8861974,
+          42.3117951,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kingston-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4283781,
+          44.3054151,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Downsview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.462248,
+          43.7492988,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.33087891709363,
+          26.49253305,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lancing-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.84076965740313,
+          43.1919328243573,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Daysland-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2656813,
+          52.8680426,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Virden-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9322654,
+          49.8485092,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Green Bay-Wisconsin-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03221297825519,
+          44.49242165,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mount Dennis-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4895513,
+          43.6869597,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Armstrong-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1944058,
+          50.4435749,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Copper Cliff-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.067045,
+          46.4743667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fonthill-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2859628,
+          43.0307817,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Waskada-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8023781,
+          49.097817,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fredericton-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6432356,
+          45.963233,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Barrie-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6901302,
+          44.3893208,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dartmouth-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5720232,
+          44.6799707,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Credit-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5870828,
+          43.5560546,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Duncan-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7080446,
+          48.7786872,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fort Qu’Appelle-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7958877,
+          50.7719106,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lunenburg-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3154816,
+          44.3774954,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Newcastle-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.53692408475533,
+          47.0344092,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Orillia-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4169256,
+          44.6066135,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cardston-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3165704,
+          49.2001157,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Roland-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9375601,
+          49.3662049,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ponoka-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5871706,
+          52.6794142,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Glace Bay-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9561999,
+          46.1949393,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Malagawatch-Inverness County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9876964,
+          45.8382073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Rush Lake-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4024878,
+          50.4046074,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Austin-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9365049,
+          49.9487121,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Baddeck Bay-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6969678,
+          46.1322095,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Forget-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8687222,
+          49.6518794,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Raymore-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5292377,
+          51.4096252,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lumby-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9656007,
+          50.2501374,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lennoxville-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8564428,
+          45.3661982,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Amaranth-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.733333,
+          50.6,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Asbestos-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.932297,
+          45.776623,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Point Edward-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4132944,
+          42.997903,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Grandview-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78930436330432,
+          51.156764499999994,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chippewa Falls-Wisconsin-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.37692400531515,
+          44.919014066333915,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Hope-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2939704,
+          43.9515755,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Nipawin-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.017425,
+          53.3627879,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Glenboro-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2877494,
+          49.5577313,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sault Ste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3330301,
+          46.5126554,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Forest Hill-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4139023,
+          43.6935586,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Swift Current-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7984496,
+          50.2849138,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Campbellton-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6765986,
+          48.0046634,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Huntsville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.218434,
+          45.3263919,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dalhousie-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.369555,
+          48.0634448,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Waterford-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0873491,
+          46.2483846,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Corner Brook-Newfoundland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.947388,
+          48.95317,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stavely-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6402944,
+          50.1621453,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vermilion-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8542072,
+          53.3527093,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Parry Sound-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1055284,
+          45.6675279,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dundalk-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3965759,
+          44.1691536,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stettler-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.71302,
+          52.3228746,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pembroke-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1115433,
+          45.8209741,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Comox-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9276204,
+          49.6727575,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Weston-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5127589,
+          43.7000465,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Claresholm-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5800285,
+          50.0239458,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Minnedosa-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8385233,
+          50.249865,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kansas City-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Souris-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2582479,
+          49.6210094,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Schumacher-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2982223,
+          48.4768905,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/City View-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7414961,
+          45.3534967,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ceylon-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6027973,
+          49.4598695,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Athens-Ohio-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1001991,
+          39.3267849,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vernon-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2718157,
+          50.2668671,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Beamsville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4751839,
+          43.1654577,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Picton-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1411741,
+          44.0077067,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sherbrooke-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.889038,
+          45.403271,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Quebec City-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2084061,
+          46.8137431,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Toronto-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.505264,
+          43.6007625,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Preeceville-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.6666643,
+          51.9553325,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tetreaultville-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5245787765453,
+          45.601646,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/River Canard-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0671924,
+          42.186102,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Okotoks-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.975082,
+          50.7253685,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Throckmorton-Texas-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.17264707896962,
+          33.18144747683311,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Acme-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5130572,
+          51.4952039,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dunrobin-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0204197,
+          45.4229052,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Como-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1051146,
+          45.4427031,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Jasmin-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6447318,
+          51.2270706,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kingsville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7396606,
+          42.0378963,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Milton-Hampshire-England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6550682,
+          50.7531006,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Boston-Massachusetts-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09078676397714,
+          42.35349761767152,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/the Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.048481,
+          38.9132162,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Langley Prairie-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6238856,
+          49.1247982,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Marathon-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.371598,
+          48.7209349,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Canso-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9965748,
+          45.3367646,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lachine-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6837987,
+          45.435114,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mimico-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4968048,
+          43.6166773,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tompkins-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7910944,
+          50.0615256,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brownvale-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.892811,
+          56.1285564,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fenwood-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0486907,
+          51.0124098,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Spirit River-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8384244,
+          55.7811087,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Valeport-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8634691,
+          50.7499773,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bath-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5944492,
+          46.5119155,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Westminster-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9108818,
+          49.2067726,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Denzil-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6519526,
+          52.2276817,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Woodley-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9006492,
+          49.4211245,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Radisson-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3950488,
+          52.4610242,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Paterson-New Jersey-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17719114406013,
+          40.91364995372097,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Strome-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0615328,
+          52.8108331,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Woodstock-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.573471,
+          46.150346,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Almonte-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1945277,
+          45.226049,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Merritt-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7884149,
+          50.1124876,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Humber Bay-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4545211,
+          43.6319677,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Truro-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2864971,
+          45.3656974,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Upper Woodstock-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.57263291483363,
+          46.1717604,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Todmorden-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.349162,
+          43.6970887,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Omemee-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5585004,
+          44.2992653,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ridgedale-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1531035,
+          53.0577273,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Britannia Beach-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.206005,
+          49.626392,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wawanesa-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6859049,
+          49.5954697,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/High River-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8709332,
+          50.5801916,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chicago-Illinois-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91401755522423,
+          41.9773543923075,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wellington-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4614994,
+          43.7590121,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Shaunavon-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.410021,
+          49.6507703,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fort Erie-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.918611,
+          42.91308,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fergus-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3779366,
+          43.7059439,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lemberg-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2045147,
+          50.7256889,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Peace River-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2910839,
+          56.2337111,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Passmore-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6447464,
+          49.537639,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Maple Creek-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4800219,
+          49.9056917,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Coniston-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8496581,
+          46.4867024,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Keene-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1620568,
+          44.2415629,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Welland-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2484192,
+          42.9922181,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chapleau-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4036099,
+          47.8416702,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wynyard-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.183333,
+          51.766667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Gimli-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9881076,
+          50.6323125,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lambeth-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.300141,
+          42.9096416,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mortlach-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0674947,
+          50.4537478,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Exeter-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4801081,
+          43.3449871,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/South River-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.380341,
+          45.841238,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ayr-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4507012,
+          43.2855122,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Westville-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7085523,
+          45.5615392,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Prince George-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7453699,
+          53.9128645,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Botwood-Newfoundland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.343628,
+          49.14219,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Shelburne-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.321384,
+          43.7639539,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Qu’Appelle-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8779412,
+          50.5413694,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Magrath-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.866984,
+          49.4169215,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hendon-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.833333,
+          52.083333,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ridgeville-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0102775,
+          49.0640691,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/La Tuque-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.78511,
+          47.441092,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lac Du Bonnet-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0621364,
+          50.2548984,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dresden-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1795314,
+          42.5909853,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Robson-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.694834,
+          49.3342548,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Nordegg-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.073132,
+          52.4737361,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Prud’homme-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8934661,
+          52.337043,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Stanley-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2121712,
+          42.6660437,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Glasgow-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6483547,
+          45.5869474,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Moncton-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8004265,
+          46.0985679,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Alhambra-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6712396,
+          52.3429334,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chicoutimi-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12352613559267,
+          48.3370248,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Liskeard-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6789029,
+          47.508731,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Carleton Place-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1465672,
+          45.1403366,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Republic-Kansas-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.49800391322138,
+          37.113428596652675,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Madison-Wisconsin-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38742825040508,
+          43.077174011800146,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lewisville-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7531422,
+          46.1043846,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cranberry Lake-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.51758944974026,
+          49.86827045,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cypress River-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8627159,
+          49.4723201,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Olds-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1130367,
+          51.7923735,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Belleville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3607597,
+          44.2436328,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Prince Albert-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.748901,
+          53.201097,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Milk River-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0849664,
+          49.1553073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Blairmore-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4381219,
+          49.6071847,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dayton-Oregon-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1848915,
+          39.7560032,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Round Hill-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6308733,
+          53.1652425,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Oshawa-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8635324,
+          43.8975558,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sydney-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1941912,
+          46.1382112,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Valois-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7910242,
+          45.4497165,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Oak River-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4301503,
+          50.1363389,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Codrington-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8015895,
+          44.162401,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Carman-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0016853,
+          49.5082995,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bracebridge-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.310989,
+          45.041508,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Harriston-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8690127,
+          43.9118312,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Selkirk-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.880188,
+          50.146986,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dauphin-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.04425,
+          51.153509,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stonewall-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3287254,
+          50.1342275,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cleeves-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0552423,
+          53.4648544,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Donnelly-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1056724,
+          55.7269514,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Glasgow-Pictou County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6483547,
+          45.5869474,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Montgomery-Alabama-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4368808671644,
+          32.3217506,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port of Spain-Trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.51657370448787,
+          10.650603499999999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Round Island-Cape Breton-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.926024,
+          46.0545547,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Topeka-Kansas-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6819977369296,
+          39.00777647233974,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Scollard-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.77975245946253,
+          52.00464487120998,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chalk River-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43565931186944,
+          46.00006807847278,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Annapolis Royal-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5160971,
+          44.7419775,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wilkie-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7068761,
+          52.4095307,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Avonlea-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0556457,
+          50.0145867,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Reston-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0927553,
+          49.5566746,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cleveland-Ohio-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83501658183006,
+          41.41568259728754,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kitchener-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4927815,
+          43.451291,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kenmore-Ohio-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54138095955128,
+          41.041072663377705,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wolseley-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.266383,
+          50.4226733,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tillsonburg-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7265015,
+          42.859494,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Belle Plaine-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1560989,
+          50.3942989,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Perth-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0164111,
+          43.4935991,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Milwaukee-Wisconsin-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89685878496341,
+          42.952289741452006,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sault St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50987467965005,
+          45.47530151368346,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Galt-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3152471,
+          43.3589869,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/South Berwick-Kings County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7155352,
+          45.0345201,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kerrobert-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.1365445,
+          51.9158875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bangor-County Down-Northern Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6679127,
+          54.662595,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Diamond City-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8411947,
+          49.7954949,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Aetna-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.242268,
+          49.1329126,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/loco-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.86893039097022,
+          49.51163061989212,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pennfield Ridge-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.705095,
+          45.1176806,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vancouver Island-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.70255696124094,
+          49.592949450000006,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chelmsford-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6407755,
+          46.8889271,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Becher-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3560002,
+          42.6538178,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Drinkwater-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1368542,
+          50.2973024,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Clinton-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5397155,
+          43.6171831,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Haverfordwest-Pembrokeshire-Wales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9684249,
+          51.8021275,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Portland-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.188746,
+          44.698979,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Gull Lake-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4829951,
+          50.0958306,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kinley-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4265309,
+          52.0671155,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cranbrook-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7672772,
+          49.5107477,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Macklin-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9441992,
+          52.3368517,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ville La Salle-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29650483436978,
+          46.7784985,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kincardine-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6348713,
+          44.1776378,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kindersley-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.1581355,
+          51.4687094,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Boharm-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.716667,
+          50.4,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lucky Lake-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1373209,
+          50.9850216,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Penticton-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.593249,
+          49.5003268,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Elrose-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.033162,
+          51.2000444,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Zawale-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4196888,
+          50.2876828,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/East Kildonan-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0881378,
+          49.9209415,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Marysville-York County-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5882983,
+          45.9787128,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Warren-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5447613,
+          50.1305701,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Banff-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5720773,
+          51.175076,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Whitby-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9421751,
+          43.87982,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Glenside-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8049728,
+          51.4531565,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Portland-Oregon-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.76116497565698,
+          45.48426715,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Westlock-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8519902,
+          54.1525241,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sutherland-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.60541199823928,
+          52.13916965,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Aylmer-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8442452,
+          45.3950895,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vegreville-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.05,
+          53.5,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Westbank-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6388985,
+          49.8370591,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Castlegar-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.663574,
+          49.316171,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ludlow-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3448389,
+          46.4901834,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Milestone-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5142534,
+          49.9927904,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Debec-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6877721,
+          46.0744404,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pictou-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7283219,
+          45.5855373,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brussels-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2506263,
+          43.7433558,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hanley-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4385372,
+          51.6290586,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Nut Mountain-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3776922,
+          52.1280742,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Etobicoke-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5656326,
+          43.6435559,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lowe Farm-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5873426,
+          49.3547468,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Rapid City-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0350624,
+          50.1198326,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Shell Lake-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.0588091,
+          53.3054031,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tulsa-Oklahoma-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8727230565002,
+          36.1897351,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Millet-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4719296,
+          53.0941031,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bathurst-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6537546,
+          47.6208671,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dryden-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.835846,
+          49.785698,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wallace-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.473214,
+          45.8136444,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pugwash-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6629818,
+          45.8498385,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/The Bronx-New York-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86320947597991,
+          40.85879945,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mount Herbert-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0393935,
+          46.2303721,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Arborg-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.218183,
+          50.9079499,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Orange-New Jersey-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7907691028939,
+          33.71510398785905,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Jamestown-New York-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.22996000005568,
+          42.10713848038575,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Gore Bay-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4640868,
+          45.9167876,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Waubaushene-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.710969,
+          44.754404,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Red Deer-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8141464,
+          52.2690628,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Nokomis-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.008698,
+          51.510452,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Somme-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9750816,
+          52.5791978,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Irma-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2323198,
+          52.917029,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Deschenes-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8047854,
+          45.3837342,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Morse-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.0374402,
+          50.4156515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stella-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7010148,
+          44.1700842,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kingston-Kings County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9499635,
+          44.9870845,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lauder-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.666667,
+          49.383333,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Togo-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.584352,
+          51.4040026,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Oakbank-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8416613,
+          49.9373014,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sioux City-Iowa-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.395014,
+          42.502837447349215,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Lowell-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9711384,
+          44.3588331,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Revelstoke-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1956709,
+          50.998045,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/MacNutt-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6043912,
+          51.0842907,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Monte Lake-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.83898826797848,
+          50.50449825,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Maple-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5068973,
+          43.8594952,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wapella-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9717067,
+          50.2628345,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wingham-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31275,
+          43.886245,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Waskatenau-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7846021,
+          54.0964697,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Trail-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7097659,
+          49.0945296,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Beverley-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.08782630269478,
+          50.9980680519342,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Washington-D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365427,
+          38.8950368,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Keewatin-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5568907,
+          49.7572156,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wainwright-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8514344,
+          52.8402725,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Nelson-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.290039,
+          49.494891,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Melville-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.807296,
+          50.9307241,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lorette-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8742479,
+          49.7393593,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bourget-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1578861,
+          45.4348751,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pine Falls-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2175535,
+          50.5644747,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Winona-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6508504,
+          43.2077485,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Camrose-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.840576,
+          53.013131,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pittsburgh-Pennsylvania-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02380410171561,
+          40.454524309229356,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vibank-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9457348,
+          50.3340225,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Outremont-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6068856,
+          45.5186167,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sheho-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2108525,
+          51.5880733,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Owen Sound-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9430094,
+          44.5678105,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chelsea-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.808023,
+          45.5031737,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Simcoe-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7038708,
+          44.5014007,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Two Hills-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5421091,
+          53.6919793,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cobourg-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1677784,
+          43.9595998,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Joggins-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4440525,
+          45.6925999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Renforth-Kings County-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0130339,
+          45.3582798,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lytton-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.581601,
+          50.2311317,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Crowsnest-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.69875664263088,
+          49.65103185,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Portage La Prairie-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.289185,
+          49.972422,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Penetanguishene-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9339487,
+          44.7688035,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Eburne-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1291709074184,
+          49.20651125,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Clair-Madawaska County-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.61832194899918,
+          47.2652766,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ailsa Craig-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5336236,
+          43.1471072,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Morden-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1014567,
+          49.1927055,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kildonan-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.00172891770987,
+          49.99175905,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Woodville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9893904,
+          44.3983286,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Humberstone-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7072788679861,
+          49.50171185,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sardis-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9572611,
+          49.1397584,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Russell-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3583264,
+          45.2573172,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chemainus-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.718414,
+          48.922499,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Norway House-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.833333,
+          53.966667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tuxford-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5808974,
+          50.5745325,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Komarno-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.25095377324891,
+          50.50607505,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Shawville-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4914676,
+          45.6035643,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Manitou-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5388162,
+          49.2398981,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Rochester-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4573984,
+          54.3733148,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Braintree-Massachusetts-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01218710900189,
+          42.1794642206931,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wilmot Valley-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6971825,
+          46.3994775,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Courtenay-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9954959,
+          49.6894061,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Burlington-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7966835,
+          43.3248924,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Silver Park-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5228348,
+          52.6624526,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sedgewick-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.695401,
+          52.7764551,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Coleman-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1683011,
+          46.6858995,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ripley-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5755462,
+          44.0711837,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Michigan-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5399282,
+          42.4271937,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pleasant Valley-Antigonish County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0717082,
+          45.6860679,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sydney Mines-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.2239916,
+          46.2340189,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hopewell-Pictou County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.700298,
+          45.4806952,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Garson-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8611935,
+          46.5549401,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Preston-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3555103,
+          43.3940076,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Duck Lake-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.229553,
+          52.811893,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/North Portal-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5480259,
+          49.00145,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chesterville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2289179,
+          45.1024266,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cameron-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.774838,
+          44.4391318,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Angola-New York-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0264403320641,
+          42.63763875935493,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cannington-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.038628,
+          44.3502068,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Arthur-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5355526,
+          43.8309446,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Crowland-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1302135440065,
+          43.005055150000004,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Shallow Lake-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0903863,
+          44.6149623,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Langstaff-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4233279,
+          43.8383187,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sioux Lookout-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9190268,
+          50.1000964,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Orangeville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0973754,
+          43.9193171,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cloverdale-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7214847,
+          49.1161848,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Indian Head-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.666667,
+          50.533333,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Three Hills-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.268475,
+          51.7024122,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Aylmer-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.983658,
+          42.773227,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mitchell-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.197899,
+          43.467942,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kingsbury-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1398472,
+          45.5869965,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Megantic-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8819927,
+          45.5772636,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Maniwaki-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9807967,
+          46.3778839,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Biggar-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.984618,
+          52.0576499,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/White Rock-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.797924,
+          49.0235357,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tyvan-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7312534,
+          50.0325507,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Verde-Newfoundland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8989530449011,
+          48.096326000000005,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Beausejour-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5140821,
+          50.0619312,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Carstairs-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.095172,
+          51.5622066,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Adelaide-South Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5999312,
+          -34.9281805,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hull-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7326823,
+          45.4405842,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Transcona-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0108481,
+          49.8953127,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hammond-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.4593081,
+          48.5366413,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ormstown-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9922809,
+          45.1255418,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Muskegon-Michigan-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25433098866533,
+          43.382427904956195,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bedford-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9885161,
+          45.1205194,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Killarney-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6641898,
+          49.1832154,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Knowlton-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5084881,
+          45.2191522,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stoney Creek-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7567616,
+          43.2167526,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Paddockwood-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.563887,
+          53.5073657,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wakefield-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.92926,
+          45.639968,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Los Angeles-California-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41307348520783,
+          33.95009531528005,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Elkhorn-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2365875,
+          49.9753411,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Balcarres-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5427231,
+          50.804747,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Morinville-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6506625,
+          53.8009283,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kedgwick River-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.71790270382289,
+          47.78214231987108,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ashmont-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.568056,
+          54.129722,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Nanaimo-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.938122,
+          49.163877,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dunham-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.800903,
+          45.130469,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Youngstown-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.206428,
+          51.5288232,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dundas-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9546341,
+          43.2661904,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Highgate-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8122673,
+          42.5024779,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Whitechurch-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4054617,
+          43.91711,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Carroll-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0315519,
+          49.6081848,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Peakes Road-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7346661,
+          46.3092654,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vankleek Hill-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6519669,
+          45.5196086,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kinkora-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6030984,
+          46.3227406,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Oyen-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4871975,
+          51.3488903,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Science Hill-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1983333,
+          43.2957348,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Warwick-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5586,
+          52.2331,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brampton-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7599366,
+          43.685832,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tilbury-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4322682,
+          42.2593155,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Souris-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2504284,
+          46.3565288,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fernie-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.062867,
+          49.5041747,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Belmont-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4567713,
+          49.4099168,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Robb-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9825369,
+          53.2341205,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Miami-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2420661,
+          49.3719582,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lucknow-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5172512,
+          43.961848,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lacombe-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.733215,
+          52.4727515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Meaford-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5916531,
+          44.6069298,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chateauguay-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.749364,
+          45.3602416,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fort Frances-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3967615,
+          48.6114425,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Seattle-Washington-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29045434679242,
+          47.66003045,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Domain-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316667,
+          49.6,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brooklin-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9600543,
+          43.9587134,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Coe Hill-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8353088,
+          44.8620123,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lakeview-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5706488,
+          43.5826574,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sussex-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5000095,
+          45.7360366,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Forestburg-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0664866,
+          52.583333,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hamilton Beach-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78657984348142,
+          43.2793169,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chatham-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1853837,
+          42.4057219,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Erickson-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9140913,
+          50.4979209,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Westview-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0825193,
+          49.334023,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mosherville-Hants County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9554812,
+          45.0738659,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Woodside-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4501688,
+          45.1781417,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mount Royal-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5897111,
+          45.5085881,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Cobble Hill-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.600311,
+          48.683708,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Gamebridge-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1534077,
+          44.4965321,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Strathmore-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3998479,
+          51.0435486,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Valparaiso-Indiana-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06315790734632,
+          41.46680393689757,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Salt Lake City-Utah-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.97871766841513,
+          40.79980631032668,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Rainy River-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6997993,
+          48.8208533,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lourdes-Newfoundland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.99015913406696,
+          48.6609727,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/South Mountain-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4512626,
+          44.9902733,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Portage la Prairie-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.289185,
+          49.972422,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lloydminster-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.98633896592374,
+          53.2816669,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Calder-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7509826,
+          51.1575037,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mount Lehman-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384603,
+          49.11651,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Grand Falls-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7407527,
+          47.047563,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Prescott-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5191675,
+          44.7184132,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Raymond-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.666667,
+          49.466667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Red Lake-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.827362,
+          51.018938,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2464194,
+          13.0368003,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kansas City-Missouri-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57215698675923,
+          39.1094616172562,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Carrying Place-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5796581,
+          44.0480591,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Roblin-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3550583,
+          51.2282164,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Edson-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.442847,
+          53.5858662,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Melfort-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6135544,
+          52.8613707,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mossbank-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9625686,
+          49.9401556,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Spedden-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7265978,
+          54.1393797,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wright-Minnesota-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.86215733793622,
+          45.17122981462661,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Laird-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5863796,
+          52.7118212,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bowsman River-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.44790651792482,
+          52.408480395310185,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dutton-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5026543,
+          42.6640129,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Hawkesbury-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3574589,
+          45.6180851,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Valley Centre-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.85,
+          51.8,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fort St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23175889065021,
+          39.46301846475758,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hanover-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0279572,
+          44.1520712,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Elmhurst-Illinois-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95217594618684,
+          41.88553028020917,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Hampton-Kings County-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8357469,
+          45.5306487,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Shanty Bay-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4835144,
+          45.014582,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Myrnam-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2279257,
+          53.6589875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Miscouche-Prince Edward Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8680479,
+          46.433219,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/McConnell-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.239766734367,
+          49.82950920682971,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Havelock-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8872927,
+          44.4332227,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Arnprior-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3543692,
+          45.433515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bradwardine-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4636627,
+          49.996721,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sittsville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.96382725430486,
+          45.2180594353036,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.491241,
+          53.5462055,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lampman-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7559587,
+          49.3783154,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/South Burnaby-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98473188847976,
+          49.21648185,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tuffnell-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3681363,
+          51.6440683,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/North Gower-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7165345,
+          45.1332585,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Mount Forest-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7338237,
+          43.9806979,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stayner-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0904451,
+          44.4194642,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lower Capilano-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1116357,
+          49.3226198,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Brownsburg-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4046061,
+          45.676516,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Eden Grove-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2398546,
+          44.2158635,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Claremont-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1305232,
+          43.9720885,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Buenos Aires-Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4440583,
+          -34.6083696,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kirkland Lake-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.031281,
+          48.154177,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Savannah-Georgia-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.05709082646159,
+          32.050450422877596,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Birch Cliff-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26611015769845,
+          43.691638850000004,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fruitland-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.68171135233558,
+          43.20799595,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Black Point-Halifax County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9816917,
+          44.651452,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Valhalla-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3833986,
+          55.4042389,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Pouce Coupe-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1321911,
+          55.714682,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wood Mountain-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3858279,
+          49.370718,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Toronto*-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839347,
+          43.6534817,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Eastview-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3917684,
+          44.2576048,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lake Lenore-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9835619,
+          52.3961594,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Halifax; Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5859487,
+          44.648618,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sutton Junction-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5980707,
+          45.1471173,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Blackie-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6177721,
+          50.6030153,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Britannia Heights-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7962612,
+          45.3583028,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Howley-Newfoundland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.092300790550354,
+          49.1571519,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Clair-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.066667,
+          52.016667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Thamesford-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9963088,
+          43.0588881,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Vernonville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9832745,
+          44.0470593,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Port Colborne-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2513905,
+          42.8862392,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Buchanan-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7555988,
+          51.7037827,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tyndall-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6609712,
+          50.0839826,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/West Vancouver-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.159479,
+          49.3311208,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Teaneck-New Jersey-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00702037937458,
+          40.866442468414554,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Matapedia-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9531464,
+          47.9741641,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lake Alma-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2014107,
+          49.0802413,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Kokomo-Indiana-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13964042902529,
+          40.492238396950796,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Treherne-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6979401,
+          49.6271787,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Richmond Hill-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4392925,
+          43.8801166,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bassano-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4658831,
+          50.7878642,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Richmond-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1411906,
+          45.6629572,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Spokane-Washington-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31007440238776,
+          47.65807013777351,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Canning-Kings County-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4209904,
+          45.1577166,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Madoc-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.50766798148976,
+          44.58180005,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ryerson-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6689683,
+          49.7849789,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tottenham-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8056098,
+          44.0225014,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Edmunston-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.31032313652582,
+          47.3764611,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Plumas-Manitoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.083333,
+          50.383333,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Edmundston-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3288825,
+          47.3637203,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/New Carlisle-Quebec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.324508,
+          48.008789,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Rumsey-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.85,
+          51.85,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/MacLeod-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.87491605598382,
+          50.579445899999996,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Ajax-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0208814,
+          43.8505287,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Long Branch-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54536450659592,
+          43.59200455,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lawrencetown-Nova Scotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3606144,
+          44.6516314,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Bobcaygeon-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5444995,
+          44.5372969,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Birmingham-Alabama-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81894964723921,
+          33.51373175,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Tuscaloosa-Alabama-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2858328,
+          33.2823377,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Abbotsford-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329479,
+          49.0521162,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dilke-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2530548,
+          50.8652831,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Wilno-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5602469,
+          45.511447,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/North Battleford-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.300476,
+          52.776186,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Yorkton-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.461243,
+          51.212045,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Berwyn-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7329774,
+          56.149407,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Fitchburg-Massachusetts-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.83664937615858,
+          42.55154087205711,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Finch-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4158993,
+          43.7812974,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Sherman-Texas-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.60831816801678,
+          33.5654954,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Elmvale-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8661611,
+          44.5837294,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Elgin-Albert County-New Brunswick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.1089815,
+          45.7970831,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Davidson-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.984596,
+          51.2647972,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Illinois-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91401755522423,
+          41.9773543923075,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Nakina-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7138858,
+          50.178029,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Langley-British Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.657047,
+          49.1039289,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Stittsville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9206345,
+          45.2584759,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Chamberlain-Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5671177,
+          50.85158,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Dunnville-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6188457,
+          42.9059168,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Barons-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.081528,
+          49.997493,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Leaside-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3680904,
+          43.7047983,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lucan-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4031356,
+          43.1878148,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Clandonald-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7170534,
+          53.5715357,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Caledonia-Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9519084,
+          43.0737943,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Lamont-Alberta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4478142,
+          53.7834515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Roxbury-Massachusetts-U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06970875529952,
+          42.330155065642394,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "/map/Glace Bay-Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9561999,
+          46.1949393,
+          0
+        ]
+      }
+    }
+  ]
+}

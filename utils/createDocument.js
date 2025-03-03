@@ -8,10 +8,9 @@ const provinces = new Set([
   "Nova Scotia", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan"
 ]);
 
-const territories = new Set(["Northwest Territories", "Nunavut", "Yukon"]);
 
 async function buildDocument(data) {
-  const grouped = { Territories: {} };
+  const grouped = {};
   const nonCanadian = {};
 
   data.forEach(doc => {
@@ -19,12 +18,7 @@ async function buildDocument(data) {
     const city = parts.length > 1 ? parts[0].trim() : "Unknown City";
     const region = parts[parts.length - 1].trim();
 
-    if (territories.has(region)) {
-      if (!grouped["Territories"][city]) {
-        grouped["Territories"][city] = [];
-      }
-      grouped["Territories"][city].push(doc);
-    } else if (provinces.has(region)) {
+     if (provinces.has(region)) {
       if (!grouped[region]) {
         grouped[region] = {};
       }
@@ -48,12 +42,14 @@ async function buildDocument(data) {
     let output = "";
     let totalRegionCount = 0;
     Object.keys(regionData).sort().forEach(city => {
+      if(regionData[city].length >= 1){
       const count = regionData[city].length;
       totalRegionCount += count;
       output += `--- ${city} (${count} people) ---\n`;
       regionData[city].forEach(doc => {
         output += doc.full_description + "\n\n";
       });
+    }
     });
     output = `Total: ${totalRegionCount} people\n\n` + output;
     
