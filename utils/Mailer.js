@@ -10,33 +10,95 @@ const transporter = nodemailer.createTransport({
   },
 });
 
-async function sendEmailNotification(userEmail, userName, subject, text) {
-  try {
-    const info = await transporter.sendMail({
-      from: `"WWII Research Guide" <${process.env.USERNAME}>`,
-      to: userEmail,
-      subject,
-      text,
-      html: `
-        <div>
-            <h1>Hello ${userName}, we have received your submission.</h1>
-            <p>Thank you for choosing our company!</p>
-            <ul>
-                <li><h2>Have any questions?</h2></li>
-                <li>Call us: 289-251-5555</li>
-                <li>Email us: <a href="mailto:mail@mail.com">mail@mail.com</a></li>
-            </ul>
-            <p>We appreciate your business. Have a great day!</p>
-        </div>
-      `,
-    });
-    console.log("Email sent:", info.messageId);
-    return info;
-  } catch (error) {
-    console.error("Error sending email:", error);
-    throw error;
+async function sendEmailNotification(userEmail, userName, vet, subject, who) {
+    let htmlString = ``;
+    try {
+      switch (who) {
+        case "prof":
+          htmlString = `
+          <div style="background: #f4f4f4; padding: 20px; font-family: Arial, sans-serif;">
+            <div style="max-width: 600px; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin: auto;">
+              <h1 style="color: #333; text-align: center;">New Research Selection</h1>
+              <p style="font-size: 16px; text-align: center;">${userName} is now researching <strong>${vet.name}</strong></p>
+              <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
+              
+              <h2 style="color: #444;">Veteran Details</h2>
+              <ul style="list-style: none; padding: 0;">
+                <li><strong>Name:</strong> ${vet.name}</li>
+                <li><strong>From:</strong> ${vet.from}</li>
+                <li><strong>Death:</strong> ${vet.death}</li>
+                <li><strong>Inscribed:</strong> ${vet.inscribed}</li>
+                <li><strong>Squadron:</strong> ${vet.squadron}</li>
+                <li><strong>Grave:</strong> ${vet.grave}</li>
+                <li><strong>Full Description:</strong> ${vet.full_description}</li>
+              </ul>
+  
+              <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
+  
+              <h2 style="color: #444;">Student Information</h2>
+              <p><strong>Name:</strong> ${userName}</p>
+              <p><strong>Email:</strong> <a href="mailto:${userEmail}" style="color: #007bff;">${userEmail}</a></p>
+  
+              <div style="text-align: center; margin-top: 20px;">
+                <a href="mailto:${userEmail}" style="display: inline-block; padding: 10px 20px; background: #007bff; color: white; text-decoration: none; border-radius: 5px;">
+                  Contact Student
+                </a>
+              </div>
+            </div>
+          </div>
+          `;
+          break;
+  
+        case "student":
+          htmlString = `
+          <div style="background: #f4f4f4; padding: 20px; font-family: Arial, sans-serif;">
+            <div style="max-width: 600px; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin: auto;">
+              <h1 style="color: #333; text-align: center;">You've Selected ${vet.name}</h1>
+              <p style="font-size: 16px; text-align: center;">We will send you an email in 4-6 weeks to check your progress.</p>
+  
+              <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
+  
+              <h2 style="color: #444;">Veteran Details</h2>
+              <ul style="list-style: none; padding: 0;">
+                <li><strong>Name:</strong> ${vet.name}</li>
+                <li><strong>From:</strong> ${vet.from}</li>
+                <li><strong>Death:</strong> ${vet.death}</li>
+                <li><strong>Inscribed:</strong> ${vet.inscribed}</li>
+                <li><strong>Squadron:</strong> ${vet.squadron}</li>
+                <li><strong>Grave:</strong> ${vet.grave}</li>
+                <li><strong>Full Description:</strong> ${vet.full_description}</li>
+              </ul>
+  
+              <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
+  
+              <h2 style="color: #444; text-align: center;">Need Help?</h2>
+              <p style="text-align: center;">If you have any questions, feel free to contact us:</p>
+              <div style="text-align: center; margin-top: 20px;">
+                <a href="mailto:drkimbergeron@gmail.com" style="display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px;">
+                  Contact Dr. Kim Bergeron
+                </a>
+              </div>
+            </div>
+          </div>
+          `;
+          break;
+      }
+  
+      const info = await transporter.sendMail({
+        from: `"WWII Research Guide" <${process.env.USERNAME}>`,
+        to: who === "prof" ? "drkimbergeron@gmail.com" : userEmail,
+        subject,
+        html: htmlString,
+      });
+  
+      console.log("Email sent:", info.messageId);
+      return info;
+    } catch (error) {
+      console.error("Error sending email:", error);
+      throw error;
+    }
   }
-}
+  
 
 async function formCaptureEmail(userEmail, userName, subject, text) {
   try {
