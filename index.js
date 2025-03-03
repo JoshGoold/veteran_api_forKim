@@ -5,6 +5,7 @@ const route = require("./routes/uploadManyVeterans")
 const getRoute = require("./routes/createDocument")
 const getRoute2 = require("./routes/getAllData")
 const getRoute3 = require("./routes/getCoords")
+const getRoute4 = require("./routes/getAllSelected")
 
 const select = require("./routes/handleResearchSelection")
 require("dotenv").config()
@@ -17,6 +18,8 @@ app.use("/", route)
 app.use("/", getRoute)
 app.use("/", getRoute2)
 app.use("/", getRoute3)
+app.use("/", getRoute4)
+
 
 app.use("/", select)
 
