@@ -6,6 +6,13 @@ const getRoute = require("./routes/createDocument")
 const getRoute2 = require("./routes/getAllData")
 const getRoute3 = require("./routes/getCoords")
 const getRoute4 = require("./routes/getAllSelected")
+// const postRoute = require("./routes/createAdmin")
+const postRoute2 = require("./routes/set2FactorCode")
+const postRoute3 = require("./routes/validatePortal")
+const postRoute4 = require("./routes/validateEmail")
+
+
+
 
 const select = require("./routes/handleResearchSelection")
 require("dotenv").config()
@@ -21,6 +28,11 @@ app.use("/", getRoute)
 app.use("/", getRoute2)
 app.use("/", getRoute3)
 app.use("/", getRoute4)
+app.use("/", postRoute2)
+app.use("/", postRoute3)
+app.use("/", postRoute4)
+
+// app.use("/", postRoute)
 
 
 app.use("/", select)
