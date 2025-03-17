@@ -4,9 +4,9 @@ const Selection = require("../models/SelectionSchema")
 const app = express.Router()
 
 app.post("/validate", async (req,res)=> {
-    const {userEmail} = req.body;
+    const {email} = req.body;
     try {
-        const user = await Selection.findOne({email: userEmail});
+        const user = await Selection.findOne({email: email});
         if(!user) return res.status(404).send({Message: "That email has not been used", Success: false})
         return res.send({Message: "Validated", Success: true})
     } catch (error) {
