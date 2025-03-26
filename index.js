@@ -59,10 +59,6 @@ const connectDB = async () => {
  useUnifiedTopology: true,
  serverSelectionTimeoutMS: 5000, // Timeout for initial server selection
  maxPoolSize: 10, // Limit connection pool size
- bufferCommands: false, // Disable buffering
- // Add keepAlive to maintain connection
- keepAlive: true,
- keepAliveInitialDelay: 300000, // 5 minutes
  });
  cachedConnectionPromise = connectionPromise;
  await connectionPromise; // Ensure connection completes before returning
