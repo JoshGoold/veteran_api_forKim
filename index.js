@@ -37,42 +37,74 @@ app.use("/", postRoute)
 
 app.use("/", select)
 
-// Function to connect to MongoDB
-let cachedConnection = null;  
-const connectDB = async () => {     
-// Return cached connection if it exists and is still valid     
-if (cachedConnection) {         
-    console.log("Using cached database connection");         
-    return cachedConnection;     
-}      
-try {         
-console.log("Establishing new database connection");         
-const connection = await mongoose.connect(process.env.MONGO_URL, {             
-useNewUrlParser: true,             
-useUnifiedTopology: true,             
-serverSelectionTimeoutMS: 5000, // Timeout for initial server selection             
-maxPoolSize: 10, // Limit connection pool size             
-bufferCommands: false, // Disable Mongoose buffering         
-});         
-cachedConnection = connection;         
-console.log("Database connected");         
-return connection;     
-} 
-catch (error) {         
-    console.error("Database connection error:", error);         
-    throw error;     
-} };  
-// Initialize connection once at startup (not per request) 
-let dbPromise = connectDB(); // This runs when the module loads  // Express app setup const express = require('express'); const app = express();  // Middleware to ensure DB is ready (only checks, doesn’t reconnect) 
-const ensureDBConnection = async (req, res, next) => {     
-try {         
-await dbPromise; // Wait for the initial connection promise to resolve         
-next();     
-} 
-catch (error) {         
-    res.status(500).json({ error: "Database connection failed" });     
-} };  // Apply middleware to all routes 
-app.use(ensureDBConnection); 
+
+// Global variable to cache the connection promise
+let cachedConnectionPromise = null;
+
+const connectDB = async () => {
+ // If we have a cached promise and the connection is still alive, reuse it
+ if (cachedConnectionPromise) {
+ const connection = mongoose.connection;
+ if (connection.readyState === 1) { // 1 = connected
+ console.log("Using cached database connection");
+ return cachedConnectionPromise;
+ }
+ console.log("Cached connection is stale, reconnecting...");
+ }
+
+ try {
+ console.log("Establishing new database connection");
+ const connectionPromise = mongoose.connect(process.env.MONGO_URL, {
+ useNewUrlParser: true,
+ useUnifiedTopology: true,
+ serverSelectionTimeoutMS: 5000, // Timeout for initial server selection
+ maxPoolSize: 10, // Limit connection pool size
+ bufferCommands: false, // Disable buffering
+ // Add keepAlive to maintain connection
+ keepAlive: true,
+ keepAliveInitialDelay: 300000, // 5 minutes
+ });
+ cachedConnectionPromise = connectionPromise;
+ await connectionPromise; // Ensure connection completes before returning
+ console.log("Database connected");
+ return connectionPromise;
+ } catch (error) {
+ console.error("Database connection error:", error);
+ cachedConnectionPromise = null; // Reset on failure
+ throw error;
+ }
+};
+
+// Initialize connection at startup
+connectDB().catch((err) => console.error("Initial connection failed:", err));
+
+
+// Middleware to ensure DB is ready and valid
+const ensureDBConnection = async (req, res, next) => {
+ try {
+ await connectDB(); // This will reuse or reconnect as needed
+ next();
+ } catch (error) {
+ console.error("Middleware connection error:", error);
+ res.status(500).json({ error: "Database connection failed" });
+ }
+};
+
+// Apply middleware to all routes
+app.use(ensureDBConnection);
+
+// Example route
+app.get('/veterans ', async (req, res) => {
+ try {
+ const Veteran = mongoose.model('Veteran', new mongoose.Schema({ name: String }), 'veterans'); // Define schema and collection name
+ const veterans = await Veteran.find();
+ res.json(veterans);
+ } catch (error) {
+ console.error("Query error:", error);
+ res.status(500).json({ error: error.message });
+ }
+});
+
 
 app.listen(process.env.PORT, ()=> console.log(`http://localhost:${process.env.PORT}`))
 
