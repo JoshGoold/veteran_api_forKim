@@ -98,7 +98,6 @@ app.use(ensureDBConnection);
 app.get("/pingDB", async (req, res) => {
     try {
         await connectDB();
-        await mongoose.connection.db.admin().ping();
         res.status(200).json({ message: "MongoDB is awake!" });
     } catch (error) {
         console.error("MongoDB Ping Error:", error);
