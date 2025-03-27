@@ -94,7 +94,7 @@ const ensureDBConnection = async (req, res, next) => {
 // Apply middleware to all routes
 app.use(ensureDBConnection);
 
-// Example route
+
 app.get("/pingDB", async (req, res) => {
     try {
         await connectDB();
