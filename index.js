@@ -94,10 +94,21 @@ const ensureDBConnection = async (req, res, next) => {
 // Apply middleware to all routes
 app.use(ensureDBConnection);
 
+// Example route
+app.get("/pingDB", async (req, res) => {
+    try {
+        await connectDB();
+        await mongoose.connection.db.admin().ping();
+        res.status(200).json({ message: "MongoDB is awake!" });
+    } catch (error) {
+        console.error("MongoDB Ping Error:", error);
+        res.status(500).json({ error: "Database ping failed" });
+    }
+})
 
-app.listen(process.env.PORT, () =>
-  console.log(`http://localhost:${process.env.PORT}`)
-);
+
+app.listen(process.env.PORT, ()=> console.log(`http://localhost:${process.env.PORT}`))
+
 
 app.get("/", (req, res) => {
   res.send("API FOR VETERANS");
