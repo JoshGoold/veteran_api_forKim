@@ -49,7 +49,7 @@ const connectDB = async () => {
         await mongoose.connect(process.env.MONGO_URL, {
             useNewUrlParser: true,
             useUnifiedTopology: true,
-            serverSelectionTimeoutMS: 5000, // Timeout for server selection
+            serverSelectionTimeoutMS: 30000, // Timeout for server selection
             maxPoolSize: 10, // Connection pool size (adjust based on your needs)
         });
         console.log("Database connected");
