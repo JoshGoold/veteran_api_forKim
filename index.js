@@ -22,6 +22,7 @@ app.use(
       "https://vet-website-eight.vercel.app",
       "http://localhost:3000/",
       "https://vet-website-eight.vercel.app/",
+      "https://ww2-canadian-mia-aircrew-database.org"
     ],
   })
 );
