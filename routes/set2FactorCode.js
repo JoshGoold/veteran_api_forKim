@@ -3,7 +3,7 @@ const Admin = require("../models/AdminSchema")
 
 const app = express.Router();
 
-app.post("/set-code", async (req,res)=> {
+app.post("/validate-code", async (req,res)=> {
     const {email, code} = req.body;
     try {
         const admin = await Admin.findOne({email})
