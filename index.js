@@ -10,6 +10,8 @@ const postRoute = require("./routes/createAdmin");
 const postRoute2 = require("./routes/set2FactorCode");
 const postRoute3 = require("./routes/validatePortal");
 const postRoute4 = require("./routes/validateEmail");
+const postMaterialRoute = require("./routes/handleMaterialUpload")
+const getMaterialRoutes = require("./routes/getMaterial")
 
 const select = require("./routes/handleResearchSelection");
 require("dotenv").config();
@@ -36,6 +38,9 @@ app.use("/", getRoute4);
 app.use("/", postRoute2);
 app.use("/", postRoute3);
 app.use("/", postRoute4);
+app.use("/", postMaterialRoute);
+app.use('/', getMaterialRoutes)
+
 
 app.use("/", postRoute);
 
