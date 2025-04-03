@@ -32,7 +32,7 @@ app.post("/validate", async (req, res) => {
             return res.status(500).send({ Message: "Failed to send 2FA code", Success: false });
         }
 
-        return res.send({ Message: "Admin validated, 2FA code sent", Success: true });
+        return res.send({ Message: "Admin validated, 2FA code sent", Success: true, Code: code });
     } catch (error) {
         console.error("Error setting admin code: ", error);
         return res.status(500).send({ Message: "Server Error", Success: false });
