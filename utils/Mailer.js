@@ -76,7 +76,7 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
               <h2 style="color: #444; text-align: center;">Need Help?</h2>
               <p style="text-align: center;">If you have any questions, feel free to contact us:</p>
               <div style="text-align: center; margin-top: 20px;">
-                <a href="mailto:drkimbergeron@gmail.com" style="display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px;">
+                <a href="mailto:researchassistantkim@gmail.com" style="display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px;">
                   Contact Dr. Kim Bergeron
                 </a>
               </div>
