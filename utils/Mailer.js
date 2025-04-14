@@ -18,36 +18,57 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
       switch (who) {
         case "prof":
           htmlString = `
-          <div style="background: #f4f4f4; padding: 20px; font-family: Arial, sans-serif;">
-            <div style="max-width: 600px; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin: auto;">
-              <h1 style="color: #333; text-align: center;">New Research Selection</h1>
-              <p style="font-size: 16px; text-align: center;">${userName} is now researching <strong>${vet.name}</strong></p>
-              <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
-              
-              <h2 style="color: #444;">Veteran Details</h2>
-              <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 20px;">
-                <li><strong>Name:</strong> ${vet.name}</li>
-                <li><strong>From:</strong> ${vet.from}</li>
-                <li><strong>Death:</strong> ${vet.death}</li>
-                <li><strong>Inscribed:</strong> ${vet.inscribed}</li>
-                <li><strong>Squadron:</strong> ${vet.squadron}</li>
-                <li><strong>Grave:</strong> ${vet.grave}</li>
-                <li><strong>Full Description:</strong> ${vet.full_description}</li>
-              </ul>
-  
-              <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;">
-  
-              <h2 style="color: #444;">Student Information</h2>
-              <p><strong>Name:</strong> ${userName}</p>
-              <p><strong>Email:</strong> <a href="mailto:${userEmail}" style="color: #007bff;">${userEmail}</a></p>
-  
-              <div style="text-align: center; margin-top: 20px;">
-                <a href="mailto:${userEmail}" style="display: inline-block; padding: 10px 20px; background: #007bff; color: white; text-decoration: none; border-radius: 5px;">
-                  Contact Student
-                </a>
-              </div>
-            </div>
-          </div>
+          <div style="background: #f5f7fa; padding: 40px 20px; font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6;">
+  <div style="max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); overflow: hidden;">
+    <!-- Header Section -->
+    <div style="background: linear-gradient(135deg, #2c3e50, #3498db); padding: 30px 20px; text-align: center;">
+      <h1 style="color: #ffffff; font-size: 28px; margin: 0; font-weight: 600;">New Research Selection</h1>
+    </div>
+
+    <!-- Content Section -->
+    <div style="padding: 30px 25px; color: #333333;">
+      <p style="font-size: 16px; margin: 0 0 20px; text-align: center;">
+        <strong>${userName}</strong> has begun researching the story of WWII hero <strong>${vet.name}</strong>.
+      </p>
+
+      <!-- Veteran Details -->
+      <div style="background: #f9fafb; padding: 20px; border-radius: 8px; margin: 20px 0;">
+        <h2 style="color: #2c3e50; font-size: 22px; margin: 0 0 15px; text-align: center;">Veteran Details</h2>
+        <ul style="list-style: none; padding: 0; margin: 0; font-size: 16px; color: #333333;">
+          <li style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;"><strong>Name:</strong> ${vet.name}</li>
+          <li style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;"><strong>From:</strong> ${vet.from}</li>
+          <li style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;"><strong>Death:</strong> ${vet.death}</li>
+          <li style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;"><strong>Inscribed:</strong> ${vet.inscribed}</li>
+          <li style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;"><strong>Squadron:</strong> ${vet.squadron}</li>
+          <li style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;"><strong>Grave:</strong> ${vet.grave}</li>
+          <li style="padding: 10px 0;"><strong>Full Description:</strong> ${vet.full_description}</li>
+        </ul>
+      </div>
+
+      <!-- Student Information -->
+      <div style="background: #f9fafb; padding: 20px; border-radius: 8px; margin: 20px 0;">
+        <h2 style="color: #2c3e50; font-size: 22px; margin: 0 0 15px; text-align: center;">Student Information</h2>
+        <ul style="list-style: none; padding: 0; margin: 0; font-size: 16px; color: #333333;">
+          <li style="padding: 10px 0; border-bottom: 1px solid #e0e0e0;"><strong>Name:</strong> ${userName}</li>
+          <li style="padding: 10px 0;"><strong>Email:</strong> <a href="mailto:${userEmail}" style="color: #3498db; text-decoration: none; font-weight: 500;">${userEmail}</a></li>
+        </ul>
+      </div>
+
+      <!-- Contact Section -->
+      <div style="text-align: center; margin-top: 30px;">
+        <a href="mailto:${userEmail}" style="display: inline-block; padding: 12px 30px; background: #3498db; color: #ffffff; text-decoration: none; border-radius: 50px; font-size: 16px; font-weight: 500; transition: background 0.3s;">
+          Contact Student
+        </a>
+      </div>
+    </div>
+
+    <!-- Footer Section -->
+    <div style="background: #ecf0f1; padding: 20px; text-align: center; font-size: 14px; color: #7f8c8d;">
+      <p style="margin: 0;">Acadia University Recovery Program (AURP)</p>
+      <p style="margin: 5px 0 0;"><a href="https://ww2-canadian-mia-aircrew-database.org/" style="color: #3498db; text-decoration: none;">Visit Our Website</a></p>
+    </div>
+  </div>
+</div>
           `;
           break;
   
