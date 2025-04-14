@@ -57,7 +57,7 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
   <div style="max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); overflow: hidden;">
     <!-- Header Section -->
     <div style="background: linear-gradient(135deg, #2c3e50, #3498db); padding: 30px 20px; text-align: center;">
-      <h1 style="color: #ffffff; font-size: 28px; margin: 0; font-weight: 600;">Welcome to the AURP, ${vet.name}</h1>
+      <h1 style="color: #ffffff; font-size: 28px; margin: 0; font-weight: 600;">You have selected: ${vet.name}</h1>
     </div>
 
     <!-- Content Section -->
@@ -121,8 +121,8 @@ async function sendEmailNotification(userEmail, userName, vet, subject, who) {
       console.log("html chosen: ", htmlString)
   
       const info = await transporter.sendMail({
-        from: `"WWII Research Guide" <${process.env.USERNAME}>`,
-        to: who === "prof" ? process.env.USERNAME : userEmail,
+        from: `"WWII Research Guide" <researchassistantkim@gmail.com>`,
+        to: who === "prof" ? "researchassistantkim@gmail.com" : userEmail,
         subject,
         html: htmlString,
       });
