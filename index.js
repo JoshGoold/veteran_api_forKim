@@ -12,6 +12,7 @@ const postRoute3 = require("./routes/validatePortal");
 const postRoute4 = require("./routes/validateEmail");
 const postMaterialRoute = require("./routes/handleMaterialUpload")
 const getMaterialRoutes = require("./routes/getMaterial")
+const handleVisit = require("./routes/handleVisit")
 
 const select = require("./routes/handleResearchSelection");
 require("dotenv").config();
@@ -40,6 +41,7 @@ app.use("/", postRoute3);
 app.use("/", postRoute4);
 app.use("/", postMaterialRoute);
 app.use('/', getMaterialRoutes)
+app.use('/', handleVisit)
 
 
 app.use("/", postRoute);
