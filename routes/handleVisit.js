@@ -6,6 +6,7 @@ const router = express.Router();
 
 router.post("/visit", async (req, res) => {
     try {
+        const {pageVisited} = req.body;
         // Extract data from req
         const ip = req.headers['x-forwarded-for'] || req.ip; 
         const referrer = req.headers['referer'] || 'direct'; 
@@ -23,7 +24,8 @@ router.post("/visit", async (req, res) => {
         const visitor = new Visitor({
             deviceType,
             ip,
-            referrer 
+            referrer ,
+            pageVisited
         });
 
         // Save to MongoDB
