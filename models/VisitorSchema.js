@@ -5,7 +5,7 @@ const VisitorSchema = mongoose.Schema({
     ip: {type: String},
     pageVisited: {type: String},
     referrer: {type: String},
-    createdAt: {type: Date, default: new Date.now}
+    createdAt: {type: Date, default: Date.now}
 })
 
 
