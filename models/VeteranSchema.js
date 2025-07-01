@@ -8,7 +8,8 @@ const VeteranSchema = mongoose.Schema({
     inscribed: {type: String, required: true},
     grave: {type: String, required: true},
     taken: {type: Boolean, default: false},
-    full_description: {type: String, required: true}
+    full_description: {type: String, required: true},
+    completed_story: {type: mongoose.SchemaTypes.ObjectId, ref: "Story"}
 })
 
 module.exports = mongoose.model("Veteran", VeteranSchema)

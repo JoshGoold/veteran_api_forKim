@@ -1,6 +1,7 @@
 const express = require("express");
 const News = require("../models/NewsSchema");
 const Lesson = require("../models/LessonPlanSchema");
+const Veteran = require("../models/VeteranSchema")
 const Story = require("../models/CompletedStorySchema");
 const multer = require("multer");
 
@@ -28,6 +29,12 @@ app.post("/upload-material", upload.single("img"), async (req, res) => {
         break;
       case "Story": 
         doc = new Story({ link, img, summary, material, vet });
+        const vet = await Veteran.findById(vet)
+        if(!vet){
+          console.log("No vet found by id copmpleted story not linked")
+        }
+        vet.completed_story = doc._id
+        await vet.save();
         await doc.save();
         break;
       case "News":
