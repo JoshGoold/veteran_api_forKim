@@ -29,12 +29,12 @@ app.post("/upload-material", upload.single("img"), async (req, res) => {
         break;
       case "Story": 
         doc = new Story({ link, img, summary, material, vet });
-        const vet = await Veteran.findById(vet)
-        if(!vet){
+        const veteran = await Veteran.findById(vet)
+        if(!veteran){
           console.log("No vet found by id copmpleted story not linked")
         }
-        vet.completed_story = doc._id
-        await vet.save();
+        veteran.completed_story = doc._id
+        await veteran.save();
         await doc.save();
         break;
       case "News":
