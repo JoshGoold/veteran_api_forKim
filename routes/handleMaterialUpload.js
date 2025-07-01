@@ -10,7 +10,7 @@ const app = express.Router();
 const upload = multer({ storage: multer.memoryStorage() });
 
 app.post("/upload-material", upload.single("img"), async (req, res) => {
-  const { link, summary, material } = req.body;
+  const { link, summary, material, vet } = req.body;
   const img = req.file?.buffer; 
 
   // Validation
@@ -27,7 +27,7 @@ app.post("/upload-material", upload.single("img"), async (req, res) => {
         await doc.save();
         break;
       case "Story": 
-        doc = new Story({ link, img, summary, material });
+        doc = new Story({ link, img, summary, material, vet });
         await doc.save();
         break;
       case "News":
