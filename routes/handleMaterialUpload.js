@@ -28,7 +28,7 @@ app.post("/upload-material", upload.single("img"), async (req, res) => {
         await doc.save();
         break;
       case "Story": 
-        doc = new Story({ link, img, summary, material, vet });
+        doc = new Story({ link, img, summary, material, veteran:vet });
         const veteran = await Veteran.findById(vet)
         if(!veteran){
           console.log("No vet found by id copmpleted story not linked")
