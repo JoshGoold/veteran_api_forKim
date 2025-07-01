@@ -38,7 +38,7 @@ app.get("/get-lessons", async (req, res) => {
 
 app.get("/get-story", async (req, res) => {
     try {
-        const stories = await Story.find({})
+        const stories = await Story.find({}).populate("veteran")
         if(!stories || stories.length === 0){
             return res.status(404).send({Message: "No stories uploaded yet.", Success: false})
         }
