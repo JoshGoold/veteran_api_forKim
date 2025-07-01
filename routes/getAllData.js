@@ -5,7 +5,7 @@ const app = express.Router()
 
 app.get("/get-all-data", async (req,res)=> {
     try {
-        const data = await Veteran.find({});
+        const data = await Veteran.find({}).populate("completed_story");
         if(!data) return res.status(404).send({Message: "No data found", Success: false})
         return res.send({Message: "Data fetched", Data: data, Success: true})
     } catch (error) {
