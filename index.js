@@ -15,6 +15,7 @@ const getMaterialRoutes = require("./routes/getMaterial")
 const handleVisit = require("./routes/handleVisit")
 const assemble = require("./routes/assembleStories")
 const search = require("./routes/searchVet")
+const modify = require("./routes/handleMaterialModifcations")
 
 
 const select = require("./routes/handleResearchSelection");
@@ -47,6 +48,7 @@ app.use('/', getMaterialRoutes)
 app.use('/', handleVisit)
 app.use('/', search)
 app.use('/', assemble)
+app.use("/", modify)
 
 
 app.use("/", postRoute);
