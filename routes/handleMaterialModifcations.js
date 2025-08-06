@@ -47,7 +47,7 @@ app.put("/edit-material", upload.single("img"), async (req, res) => {
 });
 
 app.delete("/delete-material", async (req, res) => {
-    const {material, id} = req.body;
+    const {material, id} = req.query;
     try {
         switch(material){
         case "Story":
